@@ -15,4 +15,7 @@ arr2d[:2, :]
 #first two columns
 arr2d[:, :2]
 
+# a subset
+
+arr2d[:2,1:]
 
